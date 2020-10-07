@@ -1,1 +1,1 @@
-Pierwszy szkolny projekt bazy danych hurtowni z dokumentacją.
+Szkolny projekt bazy danych hurtowni wraz z dokumentacją.
